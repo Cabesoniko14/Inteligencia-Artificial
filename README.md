@@ -18,3 +18,7 @@ Calculadora de polinomios diseñada en Prolog, con base en un programa documenta
 ### 2. AI de dominó
 
 Programa realizado en prolog que juega dominó, con la restricción de ser un juego entre dos agentes. Es decir, uno juega contra la máquina y esta responde.
+
+### 3. Planeador de un calendario de una temporada de fútbol
+
+Usando prolog y la teoría de los algortimos evolutivos, se creó un programa que ofrece la temporada más emocionante posible de acuerdo a una función de aptitud.
